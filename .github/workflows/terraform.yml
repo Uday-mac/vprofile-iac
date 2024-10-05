@@ -1,4 +1,4 @@
-name: "vprofile-iac"
+name: "eks-iac"
 on:
   push:
     branches:
