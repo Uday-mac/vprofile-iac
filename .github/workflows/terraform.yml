@@ -2,7 +2,6 @@ name: "vprofile-iac"
 on:
   push:
     branches:
-      - stage
       - main
     paths:
       - terraform/** 
